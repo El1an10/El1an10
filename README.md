@@ -19,7 +19,6 @@ I'm looking for junior remote roles in technical support or software development
 Implementations built for my Algorithms and Data Structures course at UNAH.
 - A self-balancing AVL tree (`AVLTreeMap`) with ordered-map queries (`find_le`, `find_ge`, `find_range`), and a `LogMap` built on it to index and query log entries by date in O(log n).
 - A "treque" (three-ended queue) on a doubly linked list, with O(1) operations at both ends.
-- Algorithms such as a sweep-line solution for the minimum number of meeting rooms, and a greedy change-making function using Honduran Lempira denominations.
 
 ### [Sound Rush](https://github.com/El1an10/soundrush-poo-2026) · Java, JavaFX
 A vertical-scrolling 2D game built for my Object-Oriented Programming course (I-2026), extending a professor-provided base project.
@@ -28,5 +27,5 @@ A vertical-scrolling 2D game built for my Object-Oriented Programming course (I-
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE) <!-- TODO: replace with real URL before merging -->
+- LinkedIn: [linkedin.com/in/elian-posadas-a43905379](https://www.linkedin.com/in/elian-posadas-a43905379)
 - GitHub: [@El1an10](https://github.com/El1an10)
